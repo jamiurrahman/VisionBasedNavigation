@@ -6,6 +6,10 @@ It was originally developed for the winter term 2018.
 
 The authors are Vladyslav Usenko and Nikolaus Demmel.
 
+## Video
+
+![](VisionBasedNavigationResultVideoResized.mp4)
+
 ### License
 
 The code for this practical course is provided under a BSD 3-clause license. See the LICENSE file for details.
